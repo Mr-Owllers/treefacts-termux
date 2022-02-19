@@ -34,6 +34,5 @@ The help menu:
 --fetch       -e   Fetches tree ASCII art
 ```
 ## Authors
-[Mr-Owllers](https://github.com/Mr-Owllers)
-
+[Mr-Owllers](https://github.com/Mr-Owllers)\
 [Erdi-GitHub (Erdi)](https://github.com/Erdi-GitHub)
