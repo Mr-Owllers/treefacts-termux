@@ -5,7 +5,7 @@
 - Curl
 ### Termux
 ```sh
-git clone https://github.com/Mr-Owllers/treefacts.git
+git clone https://github.com/Mr-Owllers/treefacts-termux.git
 cd treefacts
 make install
 ```
