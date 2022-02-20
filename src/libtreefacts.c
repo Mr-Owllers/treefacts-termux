@@ -9,7 +9,7 @@
  
 #define CURL_COMMAND "curl"
 #define CAT "cat"
-#define TEMP_RES "../../usr/tmp/temp-res.json"
+#define TEMP_RES "~/../usr/tmp/temp-res.json"
 
 void TreeFacts_RandomFact() {
     char command[128];
